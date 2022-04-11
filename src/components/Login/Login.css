@@ -35,6 +35,10 @@
     border: none;
     outline: none;
     font-size: 20px;
+    cursor: pointer;
+}
+.form-submit:hover{
+    background-color: rgba(255, 153, 0, 0.5);
 }
 .form-link{
     color: #ff9900;
